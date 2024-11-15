@@ -128,7 +128,12 @@
 //#define BLUETOOTH
 
 // Name displayed in the LCD "Ready" message and Info menu
-#define CUSTOM_MACHINE_NAME "Ender-3 Pro"
+
+//AMMMA 03-NOV-24 -- set the printer name to show date of upate
+//#define CUSTOM_MACHINE_NAME "Ender-3 Pro"
+#define CUSTOM_MACHINE_NAME "E3P03NOV24v0"
+
+//v0 - initial customization to Ender 3 Pro SKR MINI E3 V2
 
 // Printer's unique ID, used by some programs to differentiate between machines.
 // Choose your own or use a service like https://www.uuidgenerator.net/version4
